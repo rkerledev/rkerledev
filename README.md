@@ -4,7 +4,7 @@
 🌱 Estudando: **HTML**, **CSS** e **JavaScript**  
 🧠 Pessoa neurodivergente – diagnóstico de **Transtorno do Espectro Autista - Nível 1 de Suporte (CID F84.0)** e **Transtorno de Déficit de Atenção com Hiperatividade - TDAH (CID F90.0)**  
 🎮 Gamer nas horas vagas | 🏋️‍♀️ Faço academia | 🍥 Viciada em animes  
-💻 Apaixonada por tecnologia, design e desenvolvimento web
+💻 Apaixonada por tecnologia, design e desenvolvimento
 
 ---
 
