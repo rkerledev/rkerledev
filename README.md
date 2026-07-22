@@ -1,34 +1,36 @@
-### Olá! Eu sou a Ray 👋
+## 👋 Olá! Eu sou a Ray
 
-🎓 Estudante de **Engenharia de Software** – atualmente no **1º período**, com foco em **Desenvolvimento Fullstack**  
-🌱 Estudando: **HTML**, **CSS** e **JavaScript**  
-🧠 Pessoa neurodivergente – diagnóstico de **Transtorno do Espectro Autista - Nível 1 de Suporte (CID F84.0)** e **Transtorno de Déficit de Atenção com Hiperatividade - TDAH (CID F90.0)**  
-🎮 Gamer nas horas vagas | 🏋️‍♀️ Faço academia | 🍥 Viciada em animes  
-💻 Apaixonada por tecnologia, design e desenvolvimento
+💻 Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no **2º período**, com foco em me tornar uma **Desenvolvedora Full Stack**.
+
+📚 Atualmente estou estudando e aprimorando meus conhecimentos em:
+- **HTML5, CSS3 e JavaScript**
+- **Banco de Dados** (MySQL e modelagem de dados)
+- **Python**, com foco em automação, lógica e desenvolvimento
+- Versionamento de código com **Git e GitHub**
+- Boas práticas de programação e resolução de problemas
+
+🧠 Neurodivergente – **Transtorno do Espectro Autista (TEA - Nível 1 de Suporte | CID F84.0)** e **TDAH (CID F90.0)**.
+
+🎮 Gamer nas horas vagas, acredito que os jogos desenvolvem raciocínio lógico, estratégia e criatividade.
+
+🚀 Apaixonada por tecnologia, desenvolvimento, design e por aprender coisas novas todos os dias.
 
 ---
 
-#### 🛠️ Tecnologias que estou estudando:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+### 🛠️ Tecnologias que estou estudando
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-#### 📫 Vamos nos conectar!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayangella-kerle-602a9b191)  
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rayangella.kerle12@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-@attr4y-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/attr4y)
+### 📌 Sobre mim
 
----
+Sou movida pela curiosidade e pela vontade de aprender. Gosto de entender como as tecnologias funcionam e de transformar ideias em soluções práticas. Atualmente estou construindo uma base sólida em desenvolvimento web, banco de dados e programação com Python, sempre buscando evoluir por meio de estudos, projetos pessoais e novos desafios.
 
-<!-- Estatísticas do GitHub -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayangellak&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayangellak&layout=compact&theme=tokyonight" width="45%" />
-</p>
-
----
-
-> “A jornada é mais importante que o destino.” 🚀
-
+Meu objetivo é iniciar minha carreira como desenvolvedora, contribuindo com dedicação, aprendizado contínuo e vontade de crescer na área de tecnologia.
