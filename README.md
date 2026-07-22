@@ -1,33 +1,30 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Olá!+Eu+sou+a+Ray+👋;Desenvolvedora+Full+Stack+em+formação;Sempre+aprendendo+algo+novo+🚀" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8A2BE2&text=RAYANGELLA%20KERLE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=System+Online...;Loading+Developer+Profile...;Welcome+to+my+GitHub!;Always+Learning+🚀"/>
 
 </div>
 
 ---
 
-## 👩‍💻 Sobre mim
+# > whoami
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º período)
+```bash
+> ray@developer:~$ whoami
 
-💜 Apaixonada por tecnologia, desenvolvimento e design.
+Nome............. Rayangella Kerle
+Apelido.......... Ray
+Curso............ Análise e Desenvolvimento de Sistemas
+Período.......... 2º
+Objetivo......... Desenvolvedora Full Stack
 
-🌱 Atualmente estudando:
-
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- MySQL
-- Git e GitHub
-
-🎯 Objetivo:
-
-> Me tornar uma Desenvolvedora Full Stack e construir aplicações modernas, intuitivas e que gerem impacto positivo.
+Status........... 🟢 Online
+```
 
 ---
 
-## 🚀 Tecnologias
+# > skills.exe
 
 <div align="center">
 
@@ -37,7 +34,57 @@
 
 ---
 
-## 📊 GitHub
+# > loading knowledge...
+
+```text
+█████████████████████████████████  HTML5        90%
+
+███████████████████████████████   CSS3         85%
+
+███████████████████████████       JavaScript  70%
+
+██████████████████████            Python      60%
+
+█████████████████                 MySQL       55%
+
+████████████                      Git         50%
+```
+
+---
+
+# > about_me.md
+
+```yaml
+name: Rayangella Kerle
+
+location: Brasil 🇧🇷
+
+education:
+  - Análise e Desenvolvimento de Sistemas
+
+currently_learning:
+  - JavaScript
+  - Python
+  - MySQL
+  - APIs REST
+  - Git
+
+interests:
+  - Desenvolvimento Full Stack
+  - Banco de Dados
+  - UI/UX
+  - Automações
+  - Open Source
+
+personality:
+  - Curiosa
+  - Criativa
+  - Persistente
+```
+
+---
+
+# > github status
 
 <div align="center">
 
@@ -49,7 +96,7 @@
 
 ---
 
-## 🔥 Sequência de contribuições
+# > contribution_graph
 
 <div align="center">
 
@@ -59,42 +106,59 @@
 
 ---
 
-## 📚 Estudando atualmente
+# > current_mission()
 
-```txt
-✔ HTML5
-✔ CSS3
-✔ JavaScript
-✔ Python
-✔ Banco de Dados (MySQL)
+```javascript
+const ray = {
+    studying: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "MySQL"
+    ],
 
-🔜 React
-🔜 Node.js
-🔜 Docker
+    nextLevel: [
+        "React",
+        "Node.js",
+        "Docker",
+        "TypeScript"
+    ],
+
+    mission: "Construir aplicações modernas e resolver problemas através da tecnologia."
+}
 ```
 
 ---
 
-## 🌎 Contato
+# > connect.sh
 
-<div align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/rayangella-kerle-602a9b191/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://github.com/rkerledev">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### 💜 "Transformando curiosidade em código."
+```text
+╔══════════════════════════════════════════════╗
+║  "Transformando curiosidade em código."     ║
+╚══════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8A2BE2&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
