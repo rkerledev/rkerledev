@@ -1,42 +1,49 @@
 <div align="center">
 
-# 👋 RAYANGELLA KERLE
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=180&section=header&text=Rayangella%20Kerle&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20in%20Progress&descAlignY=68"/>
 
-### Full Stack Developer in Progress
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=C778DD&center=true&vCenter=true&width=600&lines=HTML+•+CSS+•+JavaScript;Python+•+MySQL;Sempre+aprendendo+algo+novo..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C778DD&center=true&vCenter=true&width=650&lines=console.log(%22Hello%2C+World!%22);Bem-vindo(a)+ao+meu+GitHub.;Sempre+aprendendo+algo+novo..."/>
 
 </div>
 
----
-
-<table>
+<table align="center">
 <tr>
 
 <td width="55%">
 
-### 👩 Sobre mim
+## 👩 Sobre mim
 
 ```yaml
 Nome: Rayangella Kerle
-Curso: ADS
-Período: 2º
+
+Curso:
+  ADS • 2º período
+
 Objetivo:
-  Desenvolvedora Full Stack
+  Full Stack Developer
+
+Estudando:
+  - HTML
+  - CSS
+  - JavaScript
+  - Python
+  - MySQL
 
 Status:
-  Em constante evolução 🚀
+  🟢 Building the Future
 ```
 
 </td>
 
 <td width="45%">
 
-### 💻 Tecnologias
+## ⚡ Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql"/><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql"/>
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
@@ -46,8 +53,6 @@ Status:
 
 </tr>
 </table>
-
----
 
 <div align="center">
 
@@ -59,6 +64,18 @@ Status:
 
 <div align="center">
 
-💜 **Building. Learning. Improving.**
+<img src="https://streak-stats.demolab.com?user=rkerledev&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+<div align="center">
+
+> **"Transformando curiosidade em código."** 💜
+
+<img src="https://komarev.com/ghpvc/?username=rkerledev&style=for-the-badge&color=7F3FBF"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=footer"/>
