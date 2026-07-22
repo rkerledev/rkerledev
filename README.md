@@ -1,6 +1,10 @@
 <div align="center">
 
-# 👋 Olá, eu sou a Ray
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=C778DD&center=true&vCenter=true&width=700&lines=Olá!+Eu+sou+a+Ray+👋;Desenvolvedora+Full+Stack+em+formação;Sempre+aprendendo+algo+novo+🚀" />
+
+</p>
 
 ### 💜 Full Stack Developer in Progress
 
