@@ -28,8 +28,7 @@ Python • MySQL
 🇧🇷 Brazil
 ```
 
-<br>
-<br>
+<br><br>
 
 > 💜 *"Transformando curiosidade em código."*
 
