@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Rayangella%20Kerle&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
 <div align="center">
 
 <p align="center">
