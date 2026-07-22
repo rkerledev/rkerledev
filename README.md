@@ -1,35 +1,19 @@
-<div align="center">
+# 👋 Rayangella Kerle
 
-# 👋 RAYANGELLA KERLE
+<h3 align="center">
+  💻 Full Stack Developer in Progress 🚀
+</h3>
 
-### 💜 Full Stack Developer in Progress
+<p align="center">
+  Transformando curiosidade em código. ✨
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=C778DD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+the+Future...;Always+Learning+🚀"/>
+---
 
-<br>
-
-### 💻 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode"/>
-
-<br><br>
+## 👩‍💻 Sobre mim
 
 ```yaml
-👩 Name: Rayangella Kerle
-
-🎓 ADS Student
-
-🚀 Full Stack Developer in Progress
-
-📚 Learning:
-HTML • CSS • JavaScript
-Python • MySQL
-
-🇧🇷 Brazil
-```
-
-<br><br>
-
-> 💜 *"Transformando curiosidade em código."*
-
-</div>
+Nome: Rayangella Kerle
+Curso: Análise e Desenvolvimento de Sistemas (ADS)
+Perfil: Full Stack Developer em formação
+Localização: 🇧🇷 Brasil
