@@ -1,43 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=180&section=header&text=Rayangella%20Kerle&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20in%20Progress&descAlignY=68"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:6C2BD9,100:8A2BE2&text=RAYANGELLA%20KERLE&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20in%20Progress&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C778DD&center=true&vCenter=true&width=650&lines=console.log(%22Hello%2C+World!%22);Bem-vindo(a)+ao+meu+GitHub.;Sempre+aprendendo+algo+novo..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=C778DD&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Building+the+Future...;Always+Learning+🚀"/>
 
 </div>
 
-<table align="center">
+<br>
+
+<table>
 <tr>
 
-<td width="55%">
+<td width="50%">
 
-## 👩 Sobre mim
+## 👩‍💻 PROFILE
 
 ```yaml
-Nome: Rayangella Kerle
+Name: Rayangella Kerle
 
-Curso:
-  ADS • 2º período
+Role:
+  Full Stack Developer in Progress
 
-Objetivo:
-  Full Stack Developer
+Education:
+  Análise e Desenvolvimento
+  de Sistemas
 
-Estudando:
-  - HTML
-  - CSS
-  - JavaScript
-  - Python
-  - MySQL
+Learning:
+  HTML
+  CSS
+  JavaScript
+  Python
+  MySQL
 
-Status:
-  🟢 Building the Future
+Location:
+  🇧🇷 Brazil
 ```
 
 </td>
 
-<td width="45%">
+<td width="50%">
 
-## ⚡ Stack
+## ⚡ TECH
 
 <p align="center">
 
@@ -56,26 +59,14 @@ Status:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rkerledev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=rkerledev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkerledev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rkerledev&theme=tokyonight&hide_border=true"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkerledev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 <div align="center">
 
 > **"Transformando curiosidade em código."** 💜
 
-<img src="https://komarev.com/ghpvc/?username=rkerledev&style=for-the-badge&color=7F3FBF"/>
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=footer"/>
