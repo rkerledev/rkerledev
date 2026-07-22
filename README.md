@@ -1,90 +1,89 @@
-<h1 align="center">Olá! 👋 Eu sou a Ray</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedora Full Stack em formação
-</h3>
+# Olá, eu sou a Ray 👋
 
-<p align="center">
-  <a href="https://github.com/rkerledev">
-    <img src="https://komarev.com/ghpvc/?username=rkerledev&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações"/>
-  </a>
-</p>
+### Desenvolvedora Full Stack em formação
+
+💙 Transformando curiosidade em código.
+
+</div>
 
 ---
 
-## 🚀 Sobre mim
+## 👩‍💻 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º período).
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º período)
 
-💙 Apaixonada por tecnologia, desenvolvimento e design.
+📍 Brasil
 
-📚 Atualmente estou estudando:
+🚀 Atualmente focada em aprender:
 
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 🐍 Python
-- 🗄️ Banco de Dados (MySQL)
-- 🌱 Git e GitHub
-- 🧠 Lógica de Programação
-
-🎯 Meu objetivo é construir uma carreira como **Desenvolvedora Full Stack**, criando soluções que unam tecnologia, criatividade e boas práticas de desenvolvimento.
-
----
-
-## 💻 Tecnologias
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode"/>
-
-</p>
-
----
-
-## 📖 Atualmente aprendendo
-
-- Desenvolvimento Web
-- Banco de Dados Relacional
+- HTML5, CSS3 e JavaScript
 - Python
-- Estruturas de Dados
+- Banco de Dados (MySQL)
+- Git e GitHub
+- Lógica de Programação
 - APIs REST
-- Boas práticas de programação
+
+💡 Tenho interesse em desenvolvimento Full Stack, automações, banco de dados e desenvolvimento de software.
+
+Sempre buscando aprender algo novo e evoluir um pouco todos os dias.
 
 ---
 
-## 📊 Estatísticas
+## 🛠 Stack
 
-<p align="center">
+<p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rkerledev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkerledev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode&perline=8"/>
 
 </p>
 
 ---
 
-## 🔥 Sequência de contribuições
+## 📚 Atualmente estudando
+
+```text
+✔ HTML5
+✔ CSS3
+✔ JavaScript
+✔ Python
+✔ MySQL
+◻ React
+◻ Node.js
+◻ Docker
+```
+
+---
+
+## 📈 GitHub
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=rkerledev&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rkerledev&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkerledev&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌎 Vamos nos conectar
+## 🔥 Contribuições
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/rayangella-kerle-602a9b191/" target="_blank">
+<img src="https://streak-stats.demolab.com?user=rkerledev&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌎 Contato
+
+<p>
+
+<a href="https://www.linkedin.com/in/rayangella-kerle-602a9b191">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:SEUEMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
@@ -93,21 +92,6 @@
 
 <div align="center">
 
-### ✨ "A evolução acontece um commit por vez."
+> *"A melhor forma de aprender é construindo."*
 
 </div>
-
-<!--
-**rkerledev/rkerledev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
