@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou a Rayangella Kerle</h1>
+<h1 align="center">👋 Olá, eu sou Rayangella Kerle</h1>
 
 <h3 align="center">
 Desenvolvedora Full Stack em formação | Assistente de TI | Suporte de TI
