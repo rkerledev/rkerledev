@@ -12,18 +12,18 @@ Transformando curiosidade em código.
 
 ## 👩‍💻 Sobre mim
 
-• Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+- Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-• Buscando novas oportunidades
+- Buscando novas oportunidades
 
 • Aprendendo:
-- JavaScript
-- Python
-- MySQL
-- Desenvolvimento Web
-- Banco de Dados
+• JavaScript
+• Python
+• MySQL
+• Desenvolvimento Web
+• Banco de Dados
 
-• Objetivo
+- Objetivo
 
 Conquistar minha primeira oportunidade como Desenvolvedora ou Analista de TI Júnior, aplicando boas práticas de desenvolvimento e evoluindo continuamente.
 
