@@ -5,31 +5,31 @@
 </h3>
 
 <p align="center">
-Transformando curiosidade em código. ✨
+Transformando curiosidade em código. 
 </p>
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+• Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-💼 Atualmente atuando como Assistente de TI
+• Buscando novas oportunidades
 
-🌱 Aprendendo:
+• Aprendendo:
 - JavaScript
 - Python
 - MySQL
 - Desenvolvimento Web
 - Banco de Dados
 
-🎯 Objetivo
+• Objetivo
 
 Conquistar minha primeira oportunidade como Desenvolvedora ou Analista de TI Júnior, aplicando boas práticas de desenvolvimento e evoluindo continuamente.
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <p align="center">
 
@@ -39,7 +39,7 @@ Conquistar minha primeira oportunidade como Desenvolvedora ou Analista de TI Jú
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 - Desenvolvimento Full Stack
 - APIs REST
@@ -49,7 +49,7 @@ Conquistar minha primeira oportunidade como Desenvolvedora ou Analista de TI Jú
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <p align="center">
 
@@ -61,7 +61,7 @@ Conquistar minha primeira oportunidade como Desenvolvedora ou Analista de TI Jú
 
 ---
 
-## 🔥 Sequência de contribuições
+## Sequência de contribuições
 
 <p align="center">
 
