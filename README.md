@@ -17,10 +17,15 @@ Transformando curiosidade em código.
 - Buscando novas oportunidades
 
 - Aprendendo:
+  
 •  JavaScript
+
 •  Python
+
 •  MySQL
+
 •  Desenvolvimento Web
+
 •  Banco de Dados
 
 - Objetivo
