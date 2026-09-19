@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou a Rayangella Kerle</h1>
 
 <h3 align="center">
-💻 Desenvolvedora Full Stack em formação | Assistente de TI | Suporte de TI
+Desenvolvedora Full Stack em formação | Assistente de TI | Suporte de TI
 </h3>
 
 <p align="center">
@@ -10,7 +10,7 @@ Transformando curiosidade em código.
 
 ---
 
-## 👩‍💻 Sobre mim
+## 💻 Sobre mim
 
 - Estudante de Banco de Dados
 
