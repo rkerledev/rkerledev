@@ -1,16 +1,14 @@
 <div align="center">
-# Oi, eu sou a Ray 👋
+<h1>Oi, eu sou a Ray 👋</h1>
  
-**Do suporte de TI para a engenharia de sistemas**
-*dados bem guardados, APIs bem desenhadas*
- 
-<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayangella-c084fc?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayangella-kerle-602a9b191)
-[![E-mail](https://img.shields.io/badge/E--mail-falar_comigo-c084fc?style=flat-square&logo=gmail&logoColor=white)](mailto:rayangella.kerle12@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@rkerle.dev-c084fc?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rkerle.dev/)
- 
+<p><b>Do suporte de TI para a engenharia de sistemas</b><br>
+<i>dados bem guardados, APIs bem desenhadas</i></p>
+<p>
+<a href="https://www.linkedin.com/in/rayangella-kerle-602a9b191"><img src="https://img.shields.io/badge/LinkedIn-Rayangella-c084fc?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:rayangella.kerle12@gmail.com"><img src="https://img.shields.io/badge/E--mail-falar_comigo-c084fc?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
+<a href="https://www.instagram.com/rkerle.dev/"><img src="https://img.shields.io/badge/Instagram-@rkerle.dev-c084fc?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 </div>
-<br>
 ## 🌱 Quem sou eu
  
 Comecei no suporte de TI, onde aprendi a ouvir o problema antes de procurar a solução. Hoje sou **Analista de Engenharia de Sistemas Júnior na NTT DATA** e estou crescendo para o lado do desenvolvimento.
@@ -28,22 +26,16 @@ Estudo **Banco de Dados** na Uninassau (2026 → 2027) e, por fora, sigo aprende
 <table>
 <tr>
 <td width="50%" valign="top">
-### [FlowBook](https://github.com/pedroforte01/FlowBook)
-Agendamento por **bot de WhatsApp**: o cliente marca o horário direto na conversa.
- 
-**Meu papel:** API/webhook e painel administrativo.
- 
-`Node.js` `WhatsApp API`
- 
+<h3><a href="https://github.com/pedroforte01/FlowBook">FlowBook</a></h3>
+<p>Agendamento por <b>bot de WhatsApp</b>: o cliente marca o horário direto na conversa.</p>
+<p><b>Meu papel:</b> API/webhook e painel administrativo.</p>
+<p><code>Node.js</code> <code>WhatsApp API</code></p>
 </td>
 <td width="50%" valign="top">
-### [Portfólio](https://github.com/rkerledev/Projeto---Portfolio)
-Meu cantinho na web, feito em front-end puro.
- 
-**Meu papel:** tudo, do layout ao código.
- 
-`HTML` `CSS`
- 
+<h3><a href="https://github.com/rkerledev/Projeto---Portfolio">Portfólio</a></h3>
+<p>Meu cantinho na web, feito em front-end puro.</p>
+<p><b>Meu papel:</b> tudo, do layout ao código.</p>
+<p><code>HTML</code> <code>CSS</code></p>
 </td>
 </tr>
 </table>
@@ -64,13 +56,11 @@ Meu cantinho na web, feito em front-end puro.
 ## 📈 Atividade
  
 <div align="center">
-[![Contribuições](https://ghchart.rshah.org/c084fc/rkerledev)](https://github.com/rkerledev)
- 
+<a href="https://github.com/rkerledev"><img src="https://ghchart.rshah.org/c084fc/rkerledev" alt="Gráfico de contribuições"></a>
 </div>
 ---
  
 <div align="center">
-💜 Valeu por passar por aqui! Bora trocar ideia sobre código, dados ou carreira em TI.
- 
+<p>💜 Valeu por passar por aqui! Bora trocar ideia sobre código, dados ou carreira em TI.</p>
 </div>
  
