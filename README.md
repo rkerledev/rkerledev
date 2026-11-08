@@ -26,12 +26,6 @@ Estudo **Banco de Dados** na Uninassau (2026 → 2027) e, por fora, sigo aprende
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/pedroforte01/FlowBook">FlowBook</a></h3>
-<p>Agendamento por <b>bot de WhatsApp</b>: o cliente marca o horário direto na conversa.</p>
-<p><b>Meu papel:</b> API/webhook e painel administrativo.</p>
-<p><code>Node.js</code> <code>WhatsApp API</code></p>
-</td>
-<td width="50%" valign="top">
 <h3><a href="https://github.com/rkerledev/Projeto---Portfolio">Portfólio</a></h3>
 <p>Meu cantinho na web, feito em front-end puro.</p>
 <p><b>Meu papel:</b> tudo, do layout ao código.</p>
